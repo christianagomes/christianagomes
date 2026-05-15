@@ -1,10 +1,8 @@
- <h1>Oiii, eu sou a Chris! 💙</h1>
+ <h1>Oi, eu sou a Chris! 💙</h1>
 
  - 🌱 Iniciando na área de tecnologia.
- - 📚 Estudando Engenharia de Software - 1° período na Ampli (EAD)
  - 🌎 São Luís/MA - Brasil.
- - 👷🏽‍♀️ Formada em Ciência e Tecnologia e graduanda em Engenharia Civil.
- - 💬 Pergunte-me qualquer coisa, estou à disposição.
+ - 👷🏽‍♀️ Formada em Ciência e Tecnologia, Engenharia Civil e Engenharia de Software
 
 -----------------------------------
 
